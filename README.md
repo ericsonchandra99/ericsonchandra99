@@ -1,4 +1,5 @@
 ## Hi there 👋
+---
 
 # Hai, Saya [Ericson Chandra Sihombing] 👋
 
@@ -19,7 +20,7 @@ Saya percaya data bukan hanya angka, tapi cerita yang menunggu untuk diungkap.
 
 | 📫 Email       | 🔗 LinkedIn                                   | 📸 Instagram                  |
 |---------------|----------------------------------------------|------------------------------|
-| sihombbingericson@gmail.com | [linkedin.com/in/username](https://www.linkedin.com/in/ericsonchandrasihombing/) | [@ericsonchandra99](https://instagram.com/instagram_handle) |
+| sihombingericson@gmail.com | [linkedin.com/in/username](https://www.linkedin.com/in/ericsonchandrasihombing/) | [@ericsonchandra99](https://instagram.com/instagram_handle) |
 
 ---
 
@@ -30,14 +31,6 @@ Saya percaya data bukan hanya angka, tapi cerita yang menunggu untuk diungkap.
 
 
 ---
-
-## 📊 Statistik GitHub Saya
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAMEANDA&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEANDA&layout=compact&theme=dracula)
-
----
-
 ## 🌟 Mari Terhubung!
 
 Saya suka berkolaborasi dan bertukar ide! Jangan ragu untuk mengirim pesan, atau hanya sekedar follow dan say hi!  
